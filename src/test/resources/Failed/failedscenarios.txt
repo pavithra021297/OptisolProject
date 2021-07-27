@@ -1,0 +1,2 @@
+file:src/test/resources/FeatureFiles/Register.feature:13
+file:src/test/resources/FeatureFiles/UploadMedia.feature:11
